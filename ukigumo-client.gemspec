@@ -7,8 +7,8 @@ Gem::Specification.new do |spec|
   spec.version       = "0.0.1"
   spec.authors       = ["studio3104"]
   spec.email         = ["studio3104.com@gmail.com"]
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
+  spec.description   = %q{client for Ukigumo-Server (https://github.com/ukigumo/Ukigumo-Server)}
+  spec.summary       = %q{client for Ukigumo-Server (https://github.com/ukigumo/Ukigumo-Server)}
   spec.homepage      = "https://github.com/studio3104/ukigumo-client"
   spec.license       = "MIT"
 
