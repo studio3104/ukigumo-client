@@ -1,16 +1,15 @@
 # coding: utf-8
 lib = File.expand_path('../lib', __FILE__)
 $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
-require 'ukigumo/client/version'
 
 Gem::Specification.new do |spec|
   spec.name          = "ukigumo-client"
-  spec.version       = Ukigumo::Client::VERSION
+  spec.version       = "0.0.1"
   spec.authors       = ["studio3104"]
   spec.email         = ["studio3104.com@gmail.com"]
   spec.description   = %q{TODO: Write a gem description}
   spec.summary       = %q{TODO: Write a gem summary}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/studio3104/ukigumo-client"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
